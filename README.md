@@ -14,9 +14,8 @@
 
 | Resource Type | Count | Best For |
 |--------------|-------|----------|
-| 🏢 [SaaS Directories](#-saas-directories) | 423 | B2B SaaS, Dev Tools, Product Discovery |
+| 🏢 [Directories](#-directories) | 423 | B2B SaaS, Dev Tools, Product Discovery |
 | ✍️ [Guest Post Sites](#-guest-post-sites) | 660 | Link Building, SEO, Content Marketing |
-| 🤖 AI Directories | Coming Soon | AI/ML Products |
 | 🔖 Social Bookmarks | Coming Soon | Quick Wins, Traffic Boost |
 
 **Total Resources:** 1,083 (and growing)
@@ -206,14 +205,6 @@ This data is maintained by **[Planting Moon](https://plantingmoon.com)**, a deve
 **Sources:** 13+ aggregators and our own research
 
 We occasionally add more to this list when the site makes sense or from recommendations from the community.
-
----
-
-## ⭐ Show Your Support
-
-If this project helped you launch your product:
-
-- 🤝 **Contribute** - Add directories you've discovered (see [CONTRIBUTING.md](CONTRIBUTING.md))
 
 ---
 
