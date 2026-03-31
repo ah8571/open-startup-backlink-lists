@@ -4,7 +4,7 @@
     "description": "A small experimental subset from the main directories dataset for open-source projects and open-source alternative discovery.",
     "count": 4,
     "lastUpdated": "2026-03-30",
-    "note": "These entries are a subset of the broader SaaS directories data and do not increase the total unique resource count."
+    "note": "These entries are a subset of the broader directories data and do not increase the total unique resource count."
   },
   "directories": [
     {

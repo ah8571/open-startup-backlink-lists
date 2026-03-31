@@ -11,7 +11,7 @@
       "rejected",
       "duplicate"
     ],
-    "note": "Entries here are not part of the live backlink tables until they are reviewed and moved into data/saas-directories.json. Seeded with candidates from John Rush's directory list."
+    "note": "Entries here are not part of the live backlink tables until they are reviewed and moved into data/directories.json. Seeded with candidates from John Rush's directory list."
   },
   "directories": [
     {

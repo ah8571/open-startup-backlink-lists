@@ -28,18 +28,18 @@
 
 This repo has three data layers:
 
-- **Canonical datasets** - `data/saas-directories.json` and `data/guest-posts.json`
+- **Canonical datasets** - `data/directories.json` and `data/guest-posts.json`
 - **Experimental subsets** - focused slices derived from canonical data, like `data/open-source-directories.json`
 - **Review queue** - unverified candidates that still need duplicate checks, DR lookup, or manual review
 
-**Source of truth:** `data/saas-directories.json` is the canonical SaaS directories dataset. The Planting Moon website copy is generated from it and should not be treated as the primary place to edit entries.
+**Source of truth:** `data/directories.json` is the canonical directories dataset. The Planting Moon website copy is generated from it and should not be treated as the primary place to edit entries.
 
 The canonical SaaS dataset uses richer directory typing so entries can support real filtering: multiple `type` tags, DR, submission type, follow type, source attribution, and notes.
 
 **Recommended workflow:**
 1. Add new finds to the review queue first.
 2. Verify duplicate status, DR, submission path, and overall quality.
-3. Promote approved entries into `data/saas-directories.json`.
+3. Promote approved entries into `data/directories.json`.
 4. Regenerate the Planting Moon site copy from the canonical dataset.
 
 ---
@@ -62,8 +62,8 @@ Don't want to browse JSON? Use our free interactive backlink tools with filterin
 
 ### For Developers
 ```javascript
-// Fetch SaaS Directories
-fetch('https://raw.githubusercontent.com/ah8571/awesome-launch-list/main/data/saas-directories.json')
+// Fetch Directories
+fetch('https://raw.githubusercontent.com/ah8571/awesome-launch-list/main/data/directories.json')
   .then(res => res.json())
   .then(data => console.log(data.directories));
 
@@ -103,7 +103,7 @@ fetch('https://raw.githubusercontent.com/ah8571/awesome-launch-list/main/data/op
 - ✅ Follow/nofollow links
 - ✅ Detailed descriptions
 
-📄 **[View Full Data](data/saas-directories.json)** | 🌐 **[Interactive Tool](https://plantingmoon.com/saasdirectories)**
+📄 **[View Full Data](data/directories.json)** | 🌐 **[Interactive Tool](https://plantingmoon.com/saasdirectories)**
 
 ---
 

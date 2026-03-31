@@ -30,7 +30,7 @@ Thank you for your interest in contributing! This guide will help you add new di
 
 ### Data Architecture
 
-- `data/saas-directories.json` = canonical reviewed SaaS backlinks dataset
+- `data/directories.json` = canonical reviewed directories backlinks dataset
 - `data/guest-posts.json` = canonical reviewed guest post dataset
 - `data/open-source-directories.json` = experimental subset derived from canonical data
 - `data/potential-directories.json` = review queue for possible future additions
@@ -91,7 +91,7 @@ We'll review and consider the addition.
    }
    ```
 
-   **For SaaS Directories** (`data/saas-directories.json`):
+    **For Directories** (`data/directories.json`):
    ```json
    {
      "id": "unique-id-slug",
@@ -125,7 +125,7 @@ We'll review and consider the addition.
 4. **Validate your JSON**
    ```bash
    # Make sure JSON is valid
-   python3 -c "import json; json.load(open('data/saas-directories.json'))"
+   python3 -c "import json; json.load(open('data/directories.json'))"
    ```
 
 5. **Commit and push**

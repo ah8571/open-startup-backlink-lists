@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "name": "SaaS Directories Database",
-    "description": "A curated collection of SaaS directories with domain ratings",
+    "name": "Directories Database",
+    "description": "A curated collection of directories with domain ratings and categorization tags",
     "last_updated": "2026-03-31",
     "total_count": 423,
-    "source": "https://plantingmoon.com/saasdirectories",
+    "source": "https://plantingmoon.com/resources",
     "maintained_by": "Planting Moon - https://plantingmoon.com"
   },
   "directories": [
