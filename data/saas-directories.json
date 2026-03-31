@@ -2,8 +2,8 @@
   "metadata": {
     "name": "SaaS Directories Database",
     "description": "A curated collection of SaaS directories with domain ratings",
-    "last_updated": "2026-03-30",
-    "total_count": 424,
+    "last_updated": "2026-03-31",
+    "total_count": 423,
     "source": "https://plantingmoon.com/saasdirectories",
     "maintained_by": "Planting Moon - https://plantingmoon.com"
   },
@@ -206,7 +206,8 @@
       "description": "Repository for open-source software and project hosting.",
       "type": [
         "Launch Platform",
-        "SaaS Directory"
+        "SaaS Directory",
+        "Open Source"
       ],
       "domainRating": 92,
       "submissionType": "free",
@@ -2435,22 +2436,6 @@
       "name": "A1",
       "url": "",
       "description": "Directory",
-      "type": [
-        "SaaS Directory"
-      ],
-      "domainRating": "unknown",
-      "submissionType": "unknown",
-      "followType": "unknown",
-      "listedOn": [
-        "topsaasdirectories.com"
-      ],
-      "notes": "URL and follow type not available from source"
-    },
-    {
-      "id": "openalternative",
-      "name": "OpenAlternative",
-      "url": "",
-      "description": "A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you",
       "type": [
         "SaaS Directory"
       ],
@@ -6646,20 +6631,22 @@
     },
     {
       "id": "open-alternative",
-      "name": "Open Alternative",
+      "name": "OpenAlternative",
       "url": "https://openalternative.co",
-      "description": "Open source alternatives to popular software.",
+      "description": "A curated collection of open source alternatives to everyday SaaS products and popular software.",
       "type": [
         "Launch Platform",
-        "SaaS Directory"
+        "SaaS Directory",
+        "Open Source"
       ],
       "domainRating": 51,
       "submissionType": "unknown",
       "followType": "unknown",
       "listedOn": [
-        "launchdirectories.com"
+        "launchdirectories.com",
+        "topsaasdirectories.com"
       ],
-      "notes": "Added from launchdirectories.com"
+      "notes": "Consolidated duplicate entries from launchdirectories.com and topsaasdirectories.com"
     },
     {
       "id": "trustmrr",

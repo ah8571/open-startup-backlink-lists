@@ -14,13 +14,13 @@
 
 | Resource Type | Count | Best For |
 |--------------|-------|----------|
-| 🏢 [SaaS Directories](#-saas-directories) | 424 | B2B SaaS, Dev Tools, Product Discovery |
+| 🏢 [SaaS Directories](#-saas-directories) | 423 | B2B SaaS, Dev Tools, Product Discovery |
 | ✍️ [Guest Post Sites](#-guest-post-sites) | 660 | Link Building, SEO, Content Marketing |
 | 🧩 [Open Source Directories](#-open-source-directories-experimental) | 4 (subset) | OSS projects, open-source alternatives |
 | 🤖 AI Directories | Coming Soon | AI/ML Products |
 | 🔖 Social Bookmarks | Coming Soon | Quick Wins, Traffic Boost |
 
-**Total Resources:** 1,084 (and growing)
+**Total Resources:** 1,083 (and growing)
 
 ---
 
@@ -62,7 +62,7 @@ fetch('https://raw.githubusercontent.com/ah8571/awesome-launch-list/main/data/op
 
 ## 🏢 SaaS Directories
 
-424 verified platforms where you can submit your SaaS product for discovery and backlinks.
+423 verified platforms where you can submit your SaaS product for discovery and backlinks.
 
 ### Top 10 by Domain Rating:
 1. **SourceForge** (DR: 92) - Open-source software repository
@@ -215,4 +215,4 @@ When using this data, please credit: *"Data from [Awesome Launch List](https://g
 
 ---
 
-**Last Updated:** March 30, 2026 | **Total Resources:** 1,084
+**Last Updated:** March 31, 2026 | **Total Resources:** 1,083
